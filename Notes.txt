@@ -1,0 +1,7 @@
+Static Checking:
+ TypeScript detecs errors in our code without running it. This is called static checking
+
+
+ Compile ts file with --> tsc "filename.ts"
+
+ You have to provide the type of the parameter on the function that you are doing
